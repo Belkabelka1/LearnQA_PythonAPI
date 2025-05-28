@@ -1,3 +1,1 @@
-# LearnQA_PythonAPI
-# LearnQA_PythonAPI
-# LearnQA_PythonAPI
+Проект для прохождения курса по Автоматизации REST
